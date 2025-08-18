@@ -23,7 +23,7 @@ Go dili kullanılarak [Echo](https://echo.labstack.com/) frameworkü üzerinde g
 ### Adımlar
 ```bash
 # Depoyu klonla
-git clone https://github.com/kullanici-adin/todoapi.git
+git clone https://github.com/karagultm/todo-api.git
 
 # Dizine gir
 cd todoapi
@@ -32,7 +32,7 @@ cd todoapi
 go mod tidy
 
 # Uygulamayı çalıştır
-go run server.go
+go run .
 
 ```
 ---
