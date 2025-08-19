@@ -26,7 +26,7 @@ Go dili kullanılarak [Echo](https://echo.labstack.com/) frameworkü üzerinde g
 git clone https://github.com/karagultm/todo-api.git
 
 # Dizine gir
-cd todoapi
+cd todo-api
 
 # Gerekli bağımlılıkları indir
 go mod tidy
