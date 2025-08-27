@@ -76,4 +76,8 @@ DELETE /todos/1
 - [Go](https://go.dev/)  
 - [Echo Framework](https://echo.labstack.com/)  
 - [GORM](https://gorm.io/)  
-- [SQLite](https://www.sqlite.org/)  
+- [SQLite](https://www.sqlite.org/)
+
+---
+
+📄 For the Turkish version of this README, check [README.tr.md](./README.tr.md) 🇹🇷
